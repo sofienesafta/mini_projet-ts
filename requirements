@@ -1,0 +1,7 @@
+pandas
+numpy
+statsmodels
+matplotlib
+sklearn
+scikit-learn==0.24
+keras
